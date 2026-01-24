@@ -4752,7 +4752,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00813e6a-e0d6-4565-84bb-be71df7e7477")
-		(property "Reference" "R2"
+		(property "Reference" "R23"
 			(at 113.03 140.716 0)
 			(effects
 				(font
@@ -4806,7 +4806,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R2")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -4823,7 +4823,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07b8a28a-4717-400a-b93e-8d9c9f6b45d9")
-		(property "Reference" "R2"
+		(property "Reference" "R12"
 			(at 78.74 87.6299 0)
 			(effects
 				(font
@@ -4877,7 +4877,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R2")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -4894,7 +4894,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0eaa9f98-fea2-41d5-8c30-54cb91f73c78")
-		(property "Reference" "Q1"
+		(property "Reference" "Q13"
 			(at 127 49.5299 0)
 			(effects
 				(font
@@ -4954,7 +4954,7 @@
 		(instances
 			(project ""
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q13")
 					(unit 1)
 				)
 			)
@@ -4970,7 +4970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "120991a1-b3a9-44fb-9dbb-829a53e7dab3")
-		(property "Reference" "J4"
+		(property "Reference" "J16"
 			(at 24.13 90.17 0)
 			(effects
 				(font
@@ -5025,7 +5025,7 @@
 		(instances
 			(project ""
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J4")
+					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -5175,7 +5175,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15401667-f1fb-45f3-8881-caf083945328")
-		(property "Reference" "R2"
+		(property "Reference" "R14"
 			(at 119.38 87.6299 0)
 			(effects
 				(font
@@ -5229,7 +5229,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R2")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -5377,7 +5377,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1bd7b2fe-3de7-4758-9211-f901d9494555")
-		(property "Reference" "R3"
+		(property "Reference" "R16"
 			(at 82.55 116.078 0)
 			(effects
 				(font
@@ -5431,7 +5431,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -5517,7 +5517,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2714f63b-1b6e-43ad-a6f5-faf81f9d154b")
-		(property "Reference" "R3"
+		(property "Reference" "R25"
 			(at 83.82 169.418 0)
 			(effects
 				(font
@@ -5571,7 +5571,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -5653,7 +5653,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2a320e25-9411-41ce-9c5d-e20296b663af")
-		(property "Reference" "D1"
+		(property "Reference" "D9"
 			(at 116.84 177.8 0)
 			(effects
 				(font
@@ -5723,7 +5723,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "D1")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -5739,7 +5739,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2bba0ac3-d1a6-4f0a-bbec-96ea83a12c3e")
-		(property "Reference" "D1"
+		(property "Reference" "D4"
 			(at 74.93 124.46 0)
 			(effects
 				(font
@@ -5809,7 +5809,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "D1")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -5826,7 +5826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f268731-2596-4c44-910a-d0e9eb7ee012")
-		(property "Reference" "Q1"
+		(property "Reference" "Q8"
 			(at 114.3 106.6799 0)
 			(effects
 				(font
@@ -5886,7 +5886,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q8")
 					(unit 1)
 				)
 			)
@@ -5902,7 +5902,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "30591e92-4350-439f-982f-8978ca9cd95e")
-		(property "Reference" "R3"
+		(property "Reference" "R17"
 			(at 102.87 116.078 0)
 			(effects
 				(font
@@ -5956,7 +5956,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -5972,7 +5972,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "305b2a11-4cf3-4999-b49f-751f1a178d62")
-		(property "Reference" "J1"
+		(property "Reference" "J11"
 			(at 88.9 150.368 0)
 			(do_not_autoplace yes)
 			(effects
@@ -6027,7 +6027,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J1")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -6248,7 +6248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "325e8770-f65b-4871-bd4f-2158e137adc1")
-		(property "Reference" "Q1"
+		(property "Reference" "Q2"
 			(at 73.66 54.6099 0)
 			(effects
 				(font
@@ -6308,7 +6308,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -6324,7 +6324,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "34453145-8a51-4bc8-a463-0b14ff2a157f")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 93.98 72.39 0)
 			(effects
 				(font
@@ -6394,7 +6394,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -6409,7 +6409,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "363902b9-f94e-4e4d-abd2-6bfc7e7c549c")
-		(property "Reference" "J3"
+		(property "Reference" "J14"
 			(at 185.42 54.6099 0)
 			(do_not_autoplace yes)
 			(effects
@@ -6463,7 +6463,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J3")
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -6546,15 +6546,14 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "37eb81e6-d093-4762-9eaa-b4648f5728fa")
-		(property "Reference" "J1"
-			(at 88.9 44.4499 0)
+		(property "Reference" "J3"
+			(at 87.122 44.45 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Solenoid"
@@ -6602,7 +6601,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J1")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -6619,7 +6618,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "382283e8-1c61-4d1b-9da4-b808144eb77d")
-		(property "Reference" "R2"
+		(property "Reference" "R13"
 			(at 99.06 87.6299 0)
 			(effects
 				(font
@@ -6673,7 +6672,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R2")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -6689,7 +6688,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3854f90f-7a66-4333-8c50-5959439b5eb1")
-		(property "Reference" "R3"
+		(property "Reference" "R24"
 			(at 63.5 169.418 0)
 			(effects
 				(font
@@ -6743,7 +6742,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -6759,7 +6758,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44297052-2f08-4ebc-b314-e08381bb0002")
-		(property "Reference" "R2"
+		(property "Reference" "R20"
 			(at 54.61 140.9699 0)
 			(effects
 				(font
@@ -6813,7 +6812,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R2")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -6906,7 +6905,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "459a74dd-4951-45d7-ac92-cc7f63d056ea")
-		(property "Reference" "R2"
+		(property "Reference" "R21"
 			(at 71.882 140.97 0)
 			(effects
 				(font
@@ -6960,7 +6959,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R2")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -6976,7 +6975,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "460c18dd-e510-43a6-82fd-ebc74922ab4b")
-		(property "Reference" "R3"
+		(property "Reference" "R26"
 			(at 104.14 169.418 0)
 			(effects
 				(font
@@ -7030,7 +7029,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -7379,7 +7378,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "53095385-8991-4145-812e-bbc704509cbd")
-		(property "Reference" "J1"
+		(property "Reference" "J12"
 			(at 109.22 149.86 0)
 			(do_not_autoplace yes)
 			(effects
@@ -7433,7 +7432,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J1")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -7583,7 +7582,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "583f86b0-556e-468e-8400-075717199b66")
-		(property "Reference" "R3"
+		(property "Reference" "R18"
 			(at 123.19 116.078 0)
 			(effects
 				(font
@@ -7637,7 +7636,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -7654,7 +7653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5956e6a8-ee02-4e18-bfef-9d798266d5b8")
-		(property "Reference" "Q1"
+		(property "Reference" "Q14"
 			(at 127 101.5999 0)
 			(effects
 				(font
@@ -7714,7 +7713,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q14")
 					(unit 1)
 				)
 			)
@@ -7797,7 +7796,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ba12d17-57c2-4c85-b1b8-880fa0899c06")
-		(property "Reference" "Q1"
+		(property "Reference" "Q12"
 			(at 115.57 160.0199 0)
 			(effects
 				(font
@@ -7857,7 +7856,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q12")
 					(unit 1)
 				)
 			)
@@ -7874,7 +7873,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d649b1b-d86d-4bec-b7e6-357471d2ce82")
-		(property "Reference" "Q1"
+		(property "Reference" "Q3"
 			(at 93.98 54.6099 0)
 			(effects
 				(font
@@ -7934,7 +7933,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -8016,7 +8015,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "647c2858-6ec0-4180-a5ba-bf4685b8ff22")
-		(property "Reference" "R1"
+		(property "Reference" "R10"
 			(at 148.844 105.664 90)
 			(effects
 				(font
@@ -8068,7 +8067,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R1")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -8084,7 +8083,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "65df7ca9-15f3-40d0-942b-884bf60b74d4")
-		(property "Reference" "D1"
+		(property "Reference" "D6"
 			(at 115.57 124.46 0)
 			(effects
 				(font
@@ -8154,7 +8153,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "D1")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -8170,7 +8169,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "72b34c69-7d37-426e-8e71-eae687da0cea")
-		(property "Reference" "R3"
+		(property "Reference" "R6"
 			(at 62.23 64.008 0)
 			(effects
 				(font
@@ -8224,7 +8223,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -8239,15 +8238,15 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "75a49ecb-05e3-41fd-8543-8ee97ecea878")
-		(property "Reference" "J1"
-			(at 109.22 44.4499 0)
+		(property "Reference" "J4"
+			(at 106.68 44.196 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "Solenoid"
@@ -8295,7 +8294,7 @@
 		(instances
 			(project ""
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J1")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -8312,7 +8311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75b7196d-34d9-48dd-a5a3-00878025ac5b")
-		(property "Reference" "R2"
+		(property "Reference" "R11"
 			(at 58.42 87.6299 0)
 			(effects
 				(font
@@ -8366,7 +8365,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R2")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -8382,7 +8381,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7a9045dc-dbff-4e92-85f1-61bd09fe95dd")
-		(property "Reference" "C1"
+		(property "Reference" "C3"
 			(at 136.398 165.354 0)
 			(effects
 				(font
@@ -8436,7 +8435,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "C1")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -8518,7 +8517,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7d47bb69-550a-4530-a7c0-c911d9e9fa0d")
-		(property "Reference" "J1"
+		(property "Reference" "J5"
 			(at 46.99 96.012 0)
 			(do_not_autoplace yes)
 			(effects
@@ -8571,7 +8570,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J1")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -8588,7 +8587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80a2d808-6e46-4ced-b307-a177ab45ffcc")
-		(property "Reference" "Q1"
+		(property "Reference" "Q11"
 			(at 95.25 160.0199 0)
 			(effects
 				(font
@@ -8648,7 +8647,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q11")
 					(unit 1)
 				)
 			)
@@ -8665,7 +8664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82569e68-2e2e-4684-8250-a738b27b83cf")
-		(property "Reference" "Q1"
+		(property "Reference" "Q6"
 			(at 73.66 106.6799 0)
 			(effects
 				(font
@@ -8725,7 +8724,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -8742,7 +8741,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "862fd862-5f62-46f1-b5c0-43c9125948f1")
-		(property "Reference" "Q1"
+		(property "Reference" "Q10"
 			(at 74.93 160.0199 0)
 			(effects
 				(font
@@ -8802,7 +8801,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q10")
 					(unit 1)
 				)
 			)
@@ -8818,7 +8817,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "86b464a1-215e-46b9-9f40-1c02768c0890")
-		(property "Reference" "J1"
+		(property "Reference" "J9"
 			(at 47.752 149.86 0)
 			(do_not_autoplace yes)
 			(effects
@@ -8873,7 +8872,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J1")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -8889,7 +8888,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8b6d279b-c70c-4be0-8ae7-c8c1ea52d518")
-		(property "Reference" "D1"
+		(property "Reference" "D3"
 			(at 115.57 72.39 0)
 			(effects
 				(font
@@ -8959,7 +8958,7 @@
 		(instances
 			(project ""
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "D1")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -8975,7 +8974,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c0a2517-df46-40cc-88da-e28ed0cf02a6")
-		(property "Reference" "R3"
+		(property "Reference" "R9"
 			(at 123.19 64.008 0)
 			(effects
 				(font
@@ -9029,7 +9028,7 @@
 		(instances
 			(project ""
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -9177,7 +9176,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8e907094-070c-40ba-ba8a-94eb508eb499")
-		(property "Reference" "D1"
+		(property "Reference" "D5"
 			(at 93.98 124.46 0)
 			(effects
 				(font
@@ -9247,7 +9246,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "D1")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -9531,7 +9530,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "961b15fa-efbe-4210-a2e0-21194dffb9b0")
-		(property "Reference" "J1"
+		(property "Reference" "J6"
 			(at 68.58 96.5199 0)
 			(do_not_autoplace yes)
 			(effects
@@ -9585,7 +9584,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J1")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -9668,7 +9667,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9a0d2b21-caed-4141-b5d6-b9eaae75bf42")
-		(property "Reference" "R2"
+		(property "Reference" "R22"
 			(at 93.98 140.97 0)
 			(effects
 				(font
@@ -9721,7 +9720,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R2")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -9738,7 +9737,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cb45952-018f-4dd3-bfb9-ef1074f222ee")
-		(property "Reference" "Q1"
+		(property "Reference" "Q7"
 			(at 93.98 106.6799 0)
 			(effects
 				(font
@@ -9798,7 +9797,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q7")
 					(unit 1)
 				)
 			)
@@ -9880,7 +9879,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9e4c4881-76b1-469f-9e49-b8279f1669f5")
-		(property "Reference" "C1"
+		(property "Reference" "C2"
 			(at 134.874 112.268 0)
 			(effects
 				(font
@@ -9934,7 +9933,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "C1")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -10016,7 +10015,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a03bd4a7-4a2d-4485-8dc1-fcc79f671826")
-		(property "Reference" "J1"
+		(property "Reference" "J10"
 			(at 69.85 149.8599 0)
 			(do_not_autoplace yes)
 			(effects
@@ -10070,7 +10069,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J1")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -10152,7 +10151,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a0c903a5-5556-4d9c-8e38-d39e3fe6de3f")
-		(property "Reference" "R2"
+		(property "Reference" "R5"
 			(at 121.92 35.306 0)
 			(effects
 				(font
@@ -10206,7 +10205,7 @@
 		(instances
 			(project ""
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R2")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -10222,7 +10221,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a0daa2f3-90e8-40b5-9f70-7fc86cf387a7")
-		(property "Reference" "J1"
+		(property "Reference" "J7"
 			(at 88.9 96.5199 0)
 			(do_not_autoplace yes)
 			(effects
@@ -10276,7 +10275,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J1")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -10293,7 +10292,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a162f634-b31d-43dc-ad33-7fba6406421e")
-		(property "Reference" "Q1"
+		(property "Reference" "Q15"
 			(at 128.27 154.9399 0)
 			(effects
 				(font
@@ -10353,7 +10352,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q15")
 					(unit 1)
 				)
 			)
@@ -10369,7 +10368,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a2c0a311-d9b0-45d3-af72-cbe1ac25929e")
-		(property "Reference" "D1"
+		(property "Reference" "D8"
 			(at 95.25 177.8 0)
 			(effects
 				(font
@@ -10439,7 +10438,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "D1")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -10616,7 +10615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6c504bb-ed50-4192-baff-b16d80623d7b")
-		(property "Reference" "J5"
+		(property "Reference" "J15"
 			(at 247.65 99.0599 0)
 			(effects
 				(font
@@ -10679,7 +10678,7 @@
 		(instances
 			(project ""
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J5")
+					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -10761,7 +10760,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a8f33103-f629-42d0-8180-da9b858f7ee6")
-		(property "Reference" "R3"
+		(property "Reference" "R7"
 			(at 82.55 64.008 0)
 			(effects
 				(font
@@ -10815,7 +10814,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -10832,7 +10831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa27db31-0f65-4362-b39a-26d0f50e6d95")
-		(property "Reference" "Q1"
+		(property "Reference" "Q9"
 			(at 54.61 160.0199 0)
 			(effects
 				(font
@@ -10892,7 +10891,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q9")
 					(unit 1)
 				)
 			)
@@ -11041,7 +11040,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b292de53-ce07-4fc7-a037-c6a56bf3617e")
-		(property "Reference" "J2"
+		(property "Reference" "J13"
 			(at 165.1 54.6099 0)
 			(do_not_autoplace yes)
 			(effects
@@ -11095,7 +11094,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J2")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -11112,7 +11111,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b292e780-28ab-411e-a806-2b47ce61e2ec")
-		(property "Reference" "Q1"
+		(property "Reference" "Q5"
 			(at 53.34 106.6799 0)
 			(effects
 				(font
@@ -11172,7 +11171,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -11188,7 +11187,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bb993a39-f0b1-40f6-bb13-37b25028d1bc")
-		(property "Reference" "R3"
+		(property "Reference" "R15"
 			(at 62.23 116.078 0)
 			(effects
 				(font
@@ -11242,7 +11241,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -11258,7 +11257,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bcc5475b-01e5-486e-a968-2e1a1b8f38ad")
-		(property "Reference" "D1"
+		(property "Reference" "D7"
 			(at 76.2 177.8 0)
 			(effects
 				(font
@@ -11328,7 +11327,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "D1")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -11345,7 +11344,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bed2f2a7-2068-4cfa-a1f6-f91aa6ef6ac3")
-		(property "Reference" "Q1"
+		(property "Reference" "Q4"
 			(at 114.3 54.6099 0)
 			(effects
 				(font
@@ -11405,7 +11404,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "Q1")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -11487,7 +11486,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cb81b92d-7bbe-495e-831b-d3934ec34e46")
-		(property "Reference" "R2"
+		(property "Reference" "R4"
 			(at 101.092 35.814 0)
 			(effects
 				(font
@@ -11541,7 +11540,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R2")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -11556,24 +11555,21 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d175d4a9-1af5-4ebe-86bb-72ecd9c045f1")
-		(property "Reference" "J1"
-			(at 68.58 44.4499 0)
+		(property "Reference" "J2"
+			(at 67.564 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Solenoid"
-			(at 68.58 46.9899 0)
+			(at 64.262 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -11612,7 +11608,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -11628,7 +11624,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d3ac127f-bed3-4388-ac1f-a8f04506945f")
-		(property "Reference" "R3"
+		(property "Reference" "R27"
 			(at 124.46 169.418 0)
 			(effects
 				(font
@@ -11682,7 +11678,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -11763,7 +11759,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d441b704-cba3-47ef-8076-99ab32229e4b")
-		(property "Reference" "R1"
+		(property "Reference" "R19"
 			(at 150.114 159.004 90)
 			(effects
 				(font
@@ -11815,7 +11811,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R1")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -11847,7 +11843,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
 			(at 73.66 69.85 0)
 			(effects
 				(font
@@ -12050,7 +12046,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e2e417ef-c0d8-4327-9e71-2277b8406737")
-		(property "Reference" "R3"
+		(property "Reference" "R8"
 			(at 102.87 64.008 0)
 			(effects
 				(font
@@ -12104,7 +12100,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R3")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -12254,7 +12250,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ed102763-38ad-48a4-a225-ef0bdb07f0e4")
-		(property "Reference" "R2"
+		(property "Reference" "R3"
 			(at 81.788 35.56 0)
 			(effects
 				(font
@@ -12308,7 +12304,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -12546,7 +12542,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f99b8719-7d56-4bf6-bebe-6753bbbbdb59")
-		(property "Reference" "J1"
+		(property "Reference" "J8"
 			(at 109.22 96.5199 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12600,7 +12596,7 @@
 		(instances
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
-					(reference "J1")
+					(reference "J8")
 					(unit 1)
 				)
 			)
