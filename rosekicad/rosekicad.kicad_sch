@@ -2447,6 +2447,89 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Transistor_BJT:2N3904"
 			(pin_names
 				(offset 0)
@@ -2970,6 +3053,12 @@
 		(uuid "62f1c841-48a3-4b48-8703-1d49e7d469e2")
 	)
 	(junction
+		(at 49.53 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "62f28c1c-257b-46e4-a8a7-e6ef6ea9fc8e")
+	)
+	(junction
 		(at 222.25 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3088,6 +3177,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd8c9f23-9764-4ca4-97dc-90c6d56bd44e")
+	)
+	(no_connect
+		(at 238.76 97.79)
+		(uuid "e9e0e6b2-3d8b-478b-97ea-8957710d9f36")
 	)
 	(wire
 		(pts
@@ -3921,7 +4014,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 62.23) (xy 104.14 62.23)
+			(xy 60.96 62.23) (xy 104.14 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4221,16 +4314,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 99.06) (xy 62.23 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b47754f-d3df-450c-a415-7d0b14e7807b")
-	)
-	(wire
-		(pts
 			(xy 224.79 125.73) (xy 222.25 125.73)
 		)
 		(stroke
@@ -4451,6 +4534,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 88.9) (xy 59.69 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b355499f-42fa-40c6-9675-23b57a5a824d")
+	)
+	(wire
+		(pts
 			(xy 66.04 111.76) (xy 49.53 111.76)
 		)
 		(stroke
@@ -4498,16 +4591,6 @@
 			(type default)
 		)
 		(uuid "b8973b86-b51c-421e-82ad-3d041af32fce")
-	)
-	(wire
-		(pts
-			(xy 59.69 99.06) (xy 62.23 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba6fbc59-ba0d-44ff-b152-25869c420e36")
 	)
 	(wire
 		(pts
@@ -4628,6 +4711,16 @@
 			(type default)
 		)
 		(uuid "c3e9577a-864a-40ff-a890-34ff697a9569")
+	)
+	(wire
+		(pts
+			(xy 60.96 62.23) (xy 60.96 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c62e13d0-c208-42be-a4d0-d208fdc7e58f")
 	)
 	(wire
 		(pts
@@ -7407,6 +7500,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 25.4 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "56fddb30-b5e0-4a25-af00-57a347f837bd")
+		(property "Reference" "H1"
+			(at 27.94 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 27.94 49.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_4.5mm_Pad"
+			(at 25.4 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 25.4 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 138.43 109.22 0)
 		(unit 1)
@@ -8697,6 +8854,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 49.53 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "87a166e2-f541-4b78-9f55-c838cd622f9c")
+		(property "Reference" "#PWR05"
+			(at 49.53 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 49.53 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 49.53 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 49.53 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0a95bfe9-769e-443b-86ac-4cf69e479d8e")
+		)
+		(instances
+			(project ""
+				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
 		(at 148.59 60.96 180)
 		(unit 1)
@@ -8996,6 +9219,70 @@
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
 					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 25.4 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "91469630-62e3-47e9-8d69-b7fb72251168")
+		(property "Reference" "H2"
+			(at 27.94 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 27.94 54.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_4.5mm_Pad"
+			(at 25.4 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 25.4 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "rosekicad"
+				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -10623,6 +10910,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 25.4 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a9f9c4e1-aee4-49b7-8bcd-eca08e4e4a81")
+		(property "Reference" "H3"
+			(at 27.94 57.1499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 27.94 59.6899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_4.5mm_Pad"
+			(at 25.4 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 25.4 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "rosekicad"
+				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:2N3904")
 		(at 203.2 152.4 0)
 		(unit 1)
@@ -10903,6 +11254,70 @@
 			(project "rosekicad"
 				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
 					(reference "Q5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 25.4 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b96269d9-497e-407c-90fb-9f4a49f7fd8f")
+		(property "Reference" "H4"
+			(at 27.94 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 27.94 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_4.5mm_Pad"
+			(at 25.4 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 25.4 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "rosekicad"
+				(path "/0657b7e7-94cf-4389-b691-da93263aa22a"
+					(reference "H4")
 					(unit 1)
 				)
 			)
